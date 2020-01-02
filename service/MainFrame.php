@@ -2495,7 +2495,7 @@ class PushNotif extends panfic
     //$apiKey = 'abc';
 		$data = array('id'=> "2",'title'=> 'Casandra','message' => $message);
 
-		$apiKey="AIzaSyDVfro5bmqwAnQ0SEO08ni_vyGGMyawo-E";
+		$apiKey="";
 
     // Set POST request body
 		$post = array(
@@ -2553,7 +2553,7 @@ class PushNotif extends panfic
     //$apiKey = 'abc';
 		$data = array('id'=> "2",'title'=> 'Towing','message' => $message);
 
-		$apiKey="AIzaSyB9Fq16YPkBOtRuUE3NZnT2tGJ8BXCsxiU";
+		$apiKey="";
 
     // Set POST request body
 		$post = array(
@@ -2611,7 +2611,7 @@ class PushNotif extends panfic
     //$apiKey = 'abc';
 		$data = array('id'=> "2",'title'=> 'Road Assistance','message' => $message);
 
-		$apiKey="AIzaSyCWZ9IFJp4NAbBg2GSZJReUN8SduTPjLu8";
+		$apiKey="";
 
     // Set POST request body
 		$post = array(
@@ -2669,7 +2669,7 @@ class PushNotif extends panfic
     //$apiKey = 'abc';
 		$data = array('id'=> "2",'title'=> 'Estimator','message' => $message);
 
-		$apiKey="AIzaSyD_0rH9tQrX47wGqVyzVeOs2msf4viJ1xg";
+		$apiKey="";
 
     // Set POST request body
 		$post = array(
@@ -2727,7 +2727,7 @@ class PushNotif extends panfic
     //$apiKey = 'abc';
 		$data = array('id'=> "2",'title'=> 'Surveyor','message' => $message);
 
-		$apiKey="AIzaSyBMx8LLfGI0wBKzwIi-6ZknkeVGT81lfus";
+		$apiKey="";
 
     // Set POST request body
 		$post = array(
@@ -2785,7 +2785,7 @@ class PushNotif extends panfic
     //$apiKey = 'abc';
 		$data = array('id'=> "2",'title'=> 'Surveyor','message' => $message);
 
-		$apiKey="AIzaSyDUEz99NOPYgOZXqeaj8lyCohs-igPnKfA";
+		$apiKey="";
 	//$apiKey="AIzaSyC3jDLfOkL-IiSRKpuLl3_dYvrUsjlx7S8";//react native
     // Set POST request body
    /* $post = array(
